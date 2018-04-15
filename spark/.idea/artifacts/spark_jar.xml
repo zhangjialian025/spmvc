@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_jar</output-path>
+    <root id="archive" name="spark.jar">
+      <element id="module-output" name="spark" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/net.sf.jopt-simple/jopt-simple/jars/jopt-simple-4.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
